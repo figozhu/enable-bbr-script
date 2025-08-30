@@ -26,10 +26,10 @@ BBR 控制脚本是一个从 3X-UI 项目中提取的独立工具，专门用于
 
 ```bash
 # 下载脚本
-wget -O bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/bbr_control.sh
+wget -O bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/refs/heads/main/bbr_control.sh
 
 # 或使用 curl
-curl -o bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/bbr_control.sh
+curl -o bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/refs/heads/main/bbr_control.sh
 
 # 添加执行权限
 chmod +x bbr_control.sh
@@ -211,10 +211,10 @@ The BBR Control Script is a standalone tool extracted from the 3X-UI project, sp
 
 ```bash
 # Download script
-wget -O bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/bbr_control.sh
+wget -O bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/refs/heads/main/bbr_control.sh
 
 # Or use curl
-curl -o bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/bbr_control.sh
+curl -o bbr_control.sh https://raw.githubusercontent.com/figozhu/enable-bbr-script/refs/heads/main/bbr_control.sh
 
 # Add execute permission
 chmod +x bbr_control.sh
